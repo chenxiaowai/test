@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="00b553f4-f604-4344-8874-c2e40433c0cf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Kotlin Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\java\maven\maven_repository" />
+        <option name="mavenHome" value="D:/java/maven/maven-3.5.2" />
+        <option name="updateIndicesOnProjectOpen" value="false" />
+        <option name="userSettingsFile" value="D:\java\maven\maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1crauVPCAMCUdD2IPnZFyMgNI9K" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/xc-framework-parent" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.28057554" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.run.dashboard.notification" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDEAPOJECT\XcEduServiceCode\xc-framework-parent" />
+      <recent name="D:\IDEAPOJECT\XcEduServiceCode\xc-service-manage-cms\src\test\java\com\xuecheng\manage_cms" />
+      <recent name="D:\IDEAPOJECT\XcEduServiceCode\xc-service-manage-cms\src\main\java\com\xuecheng\manage_cms\config" />
+      <recent name="D:\IDEAPOJECT\XcEduServiceCode\xc-service-manage-cms\src\main\java\com\xuecheng\manage_cms\controller" />
+      <recent name="D:\IDEAPOJECT\XcEduServiceCode\xc-service-manage-cms\src\main\java\com\xuecheng\manage_cms\dao" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.xuecheng.manage_cms.service" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IDEAPOJECT\XcEduServiceCode\xc-framework-parent\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ManageCmsApplication">
+    <configuration name="A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xuecheng.manage_cms.A" />
+      <module name="xc-service-manage-cms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuecheng.manage_cms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CmsPageRepositoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="xc-service-manage-cms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuecheng.manage_cms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xuecheng.manage_cms" />
+      <option name="MAIN_CLASS_NAME" value="com.xuecheng.manage_cms.CmsPageRepositoryTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CmsPageRepositoryTest.testFindAllByExample" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="xc-service-manage-cms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuecheng.manage_cms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xuecheng.manage_cms" />
+      <option name="MAIN_CLASS_NAME" value="com.xuecheng.manage_cms.CmsPageRepositoryTest" />
+      <option name="METHOD_NAME" value="testFindAllByExample" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CmsPageRepositoryTest.testFindPageName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="xc-service-manage-cms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuecheng.manage_cms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xuecheng.manage_cms" />
+      <option name="MAIN_CLASS_NAME" value="com.xuecheng.manage_cms.CmsPageRepositoryTest" />
+      <option name="METHOD_NAME" value="testFindPageName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FreemarkerTestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="test-freemarker" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.test.freemarker.FreemarkerTestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManageCmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="xc-service-manage-cms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuecheng.manage_cms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.manage_cms.ManageCmsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ManageCmsApplication" />
+        <item itemvalue="Application.A" />
+        <item itemvalue="JUnit.CmsPageRepositoryTest.testFindAllByExample" />
+        <item itemvalue="JUnit.CmsPageRepositoryTest" />
+        <item itemvalue="JUnit.CmsPageRepositoryTest.testFindPageName" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00b553f4-f604-4344-8874-c2e40433c0cf" name="Default Changelist" comment="" />
+      <created>1591289389354</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591289389354</updated>
+      <workItem from="1591289391714" duration="290000" />
+      <workItem from="1591289739255" duration="309000" />
+      <workItem from="1591290081212" duration="167000" />
+      <workItem from="1591290269921" duration="442000" />
+      <workItem from="1591290723481" duration="380000" />
+      <workItem from="1591291115325" duration="129000" />
+      <workItem from="1591291287367" duration="749000" />
+      <workItem from="1591293765938" duration="1265000" />
+      <workItem from="1591326568523" duration="2934000" />
+      <workItem from="1591349031488" duration="1966000" />
+      <workItem from="1591667261203" duration="4467000" />
+      <workItem from="1591951637155" duration="433000" />
+      <workItem from="1591952086344" duration="1746000" />
+      <workItem from="1591953848807" duration="516000" />
+      <workItem from="1591954381219" duration="76000" />
+      <workItem from="1591954468496" duration="102000" />
+      <workItem from="1591967256884" duration="3799000" />
+      <workItem from="1591971074865" duration="516000" />
+      <workItem from="1592377381786" duration="9032000" />
+      <workItem from="1592447903059" duration="2003000" />
+      <workItem from="1592883053631" duration="6289000" />
+      <workItem from="1593479155344" duration="11600000" />
+      <workItem from="1593681398895" duration="9242000" />
+      <workItem from="1594088895164" duration="796000" />
+      <workItem from="1595474170372" duration="5185000" />
+      <workItem from="1595485035867" duration="2639000" />
+      <workItem from="1595562713495" duration="2741000" />
+      <workItem from="1595660805213" duration="2362000" />
+      <workItem from="1597145284213" duration="733000" />
+      <workItem from="1598445006943" duration="1952000" />
+      <workItem from="1598973952485" duration="3493000" />
+      <workItem from="1610543795447" duration="4033000" />
+      <workItem from="1619614404147" duration="941000" />
+      <workItem from="1625279324671" duration="2294000" />
+      <workItem from="1625318124285" duration="664000" />
+      <workItem from="1625326639040" duration="1192000" />
+      <workItem from="1652500839715" duration="4000" />
+      <workItem from="1652500936372" duration="768000" />
+      <workItem from="1652528737834" duration="636000" />
+      <workItem from="1652531018513" duration="2658000" />
+      <workItem from="1652800434548" duration="177000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="67" key="#Project_Structure" timestamp="1652534699512">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="361" y="67" key="#Project_Structure/0.0.1536.816@0.0.1536.816" timestamp="1652534699512" />
+    <state x="223" y="64" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1652534713505">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="223" y="64" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.816@0.0.1536.816" timestamp="1652534713505" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/service/PageService.java</url>
+          <line>133</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/service/PageService.java</url>
+          <line>166</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/xc-framework-common/src/main/java/com/xuecheng/framework/exception/ExceptionCatch.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/service/PageService.java</url>
+          <line>136</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/xc-framework-common/src/main/java/com/xuecheng/framework/exception/ExceptionCast.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/xc-framework-common/src/main/java/com/xuecheng/framework/exception/CustomException.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/service/PageService.java</url>
+          <line>169</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/service/PageService.java</url>
+          <line>118</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
